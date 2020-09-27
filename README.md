@@ -1,1 +1,1 @@
-# wpscseb2022
+# WPS
